@@ -1,6 +1,6 @@
 # flutterappcontactlist
 
-A new Flutter application.
+Contact List Flutter application.
 
 ## Getting Started
 
